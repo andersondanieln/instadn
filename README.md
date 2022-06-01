@@ -1,8 +1,10 @@
-## INSTADN
+# INSTADN
 
 An easy way to post to Instagram via code using Puppeteer.
 The goal of this project is to be as simple and intuitive as possible, and of course, to be functional.
 See how easy it is to post:
+
+### Example 1.1
 
     const instdn = require('instdn');
     
@@ -17,6 +19,7 @@ See how easy it is to post:
     }
     );
 
+### Example 1.2
 You will also be able to obtain information about your user profile, see how:
 
     const instdn = require('instdn');
