@@ -30,4 +30,4 @@ You will also be able to obtain information about your user profile, see how:
     let profile = insta.getProfile();
  
 All progress will be announced in your Terminal.
-     
+Instadn will save session cookies to use again in the future. Don't worry, it switches between cookie and login automatically.
