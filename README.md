@@ -1,4 +1,4 @@
-![plot](./resources/img/logo_banner.png)
+![plot](./resources/img/logo.png)
 
 # INSTADN
 
