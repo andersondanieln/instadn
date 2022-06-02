@@ -1,3 +1,5 @@
+![plot](./resources/img/logo_banner.png)
+
 # INSTADN
 
 An easy way to post to Instagram via code using Puppeteer.
