@@ -1,0 +1,23 @@
+{
+  "name": "instadn",
+  "version": "1.0.0",
+  "description": "An easy way to post to Instagram using Puppeteer",
+  "main": "instdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/anderhex/instadn"
+  },
+  "keywords": [
+    "Instagram",
+    "Automation",
+    "Puppeteer"
+  ],
+  "author": "Anderson D.",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^14.2.0"
+  }
+}
